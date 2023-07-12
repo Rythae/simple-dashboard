@@ -205,7 +205,7 @@ export default function Dashboard() {
                 <TransactionsTableDetails>
                     <FisrtRowTableDetails>
                         <SerialNum>1</SerialNum>
-                        <ProjectNameDetails>White Sand</ProjectNameDetails>
+                        <ProjectNameDetails>Blue Sandy</ProjectNameDetails>
                     </FisrtRowTableDetails>
                     <SecondRowDetails>
                         <ProjectOwnerDetails>James Arthur</ProjectOwnerDetails>
