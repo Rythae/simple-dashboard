@@ -14,7 +14,7 @@ import {
     MessagesIcon,
     SettingsIcon,
     LogoutIcon,
-} from "../pages/styles/sidebarLinks.styles";
+} from "../styles/sidebarLinks.styles";
 
 export default function SideBarLinks() {
 

@@ -68,7 +68,7 @@ import {
     RightArrowIcon,
     BarChartContainer,
     LineChartContainer,
-} from "./styles/dashboard.styles";
+} from "../styles/dashboard.styles";
 
 import ReusableComponent from "@/components/reusable";
 import BarChart from '@/components/barChart';

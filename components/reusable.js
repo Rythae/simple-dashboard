@@ -15,7 +15,7 @@ import {
     UserLogo,
     DropdownLogo,
     WhiteLogo,
-} from "../pages/styles/reusable.styles";
+} from "../styles/reusable.styles";
 
 import SideBarLinks from "./sidebarLinks";
 
